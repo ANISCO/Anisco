@@ -12,6 +12,7 @@ namespace FIRST_PROJECT
         {
             console.writeline("hello world");
             console.readkey();
+            //this my first pogram
         }
     }
 }
